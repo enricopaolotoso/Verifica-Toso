@@ -1,0 +1,13 @@
+/Users/enricotoso/Projects/verifica/verifica/bin/Debug/netcoreapp3.1/verifica.deps.json
+/Users/enricotoso/Projects/verifica/verifica/bin/Debug/netcoreapp3.1/verifica.runtimeconfig.json
+/Users/enricotoso/Projects/verifica/verifica/bin/Debug/netcoreapp3.1/verifica.runtimeconfig.dev.json
+/Users/enricotoso/Projects/verifica/verifica/bin/Debug/netcoreapp3.1/verifica.dll
+/Users/enricotoso/Projects/verifica/verifica/bin/Debug/netcoreapp3.1/verifica.pdb
+/Users/enricotoso/Projects/verifica/verifica/obj/Debug/netcoreapp3.1/verifica.csproj.AssemblyReference.cache
+/Users/enricotoso/Projects/verifica/verifica/obj/Debug/netcoreapp3.1/verifica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enricotoso/Projects/verifica/verifica/obj/Debug/netcoreapp3.1/verifica.AssemblyInfoInputs.cache
+/Users/enricotoso/Projects/verifica/verifica/obj/Debug/netcoreapp3.1/verifica.AssemblyInfo.cs
+/Users/enricotoso/Projects/verifica/verifica/obj/Debug/netcoreapp3.1/verifica.csproj.CoreCompileInputs.cache
+/Users/enricotoso/Projects/verifica/verifica/obj/Debug/netcoreapp3.1/verifica.dll
+/Users/enricotoso/Projects/verifica/verifica/obj/Debug/netcoreapp3.1/verifica.pdb
+/Users/enricotoso/Projects/verifica/verifica/obj/Debug/netcoreapp3.1/verifica.genruntimeconfig.cache
